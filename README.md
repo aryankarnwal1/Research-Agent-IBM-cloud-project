@@ -1,4 +1,4 @@
-# Research-Agent-IBM-cloud-project
+# AI-Research-Agent
 Research Agent using IBM Cloud (Agentic AI Project)
 
 This project is a Research Agent built as part of the AICTE-IBM SkillBuild Internship 2025.  
